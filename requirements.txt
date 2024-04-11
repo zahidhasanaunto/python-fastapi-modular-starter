@@ -1,0 +1,6 @@
+uvicorn
+pydantic
+typing
+fastapi
+python-dotenv
+pydantic-settings
